@@ -11,6 +11,8 @@ One month. Real builds. No tutorials. I'm an implementation analyst going deep o
 | Day | Project | What it does | Stack |
 |-----|---------|--------------|-------|
 | 1 | [ask-my-docs](./rag-demo) | RAG chatbot over my own docs — asks, retrieves, shows receipts | Python, TF-IDF, cosine similarity, Claude API |
+| 2 | [summarizer-api](./summarizer-api) | HTTP API — POST text, get back a Claude-written summary | Python, FastAPI, Claude API |
+
 
 *More shipping weekly. Each build gets its own folder and README.*
 
