@@ -22,7 +22,7 @@ to fetch. From inside this folder:
 
 ```bash
 python3 -m venv venv && source venv/bin/activate
-pip install --only-binary:all: -r requirements.txt
+pip install --only-binary=:all: -r requirements.txt
 python onprem_rag.py docs "What are the data security rules?"
 python onprem_rag.py docs "How does the system work?" --retrieve-only
 ```
