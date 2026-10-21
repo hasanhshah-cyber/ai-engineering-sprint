@@ -16,6 +16,7 @@ One month. Real builds. No tutorials. I'm an implementation analyst going deep o
 | 4 | [day-4-memory](./day-4-memory) | Agent with memory - remembers past conversation and facts, recalls them in later answers | Python, Claude API, JSON file store |
 | 5 | [day-5-github-agent](./day-5-github-agent) | Agent talks to a real app - asks GitHub for live repo data, answers from it | Python, Claude API, GitHub API |
 | 6 | [day-6-local-model](./day-6-local-model) | Small HuggingFace model downloaded once, then running locally with no API key | Python, HuggingFace, ONNX Runtime |
+| 7 | [day-7-deployed-api](./day-7-deployed-api) | Summarizer API deployed with a live link, key as a host secret | Python, FastAPI, Docker, Render |
 
 *More shipping weekly. Each build gets its own folder and README.*
 
