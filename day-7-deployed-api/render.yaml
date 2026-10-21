@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: summarizer-api
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: SUMMARIZER_MODEL
+        value: claude-opus-4-6
