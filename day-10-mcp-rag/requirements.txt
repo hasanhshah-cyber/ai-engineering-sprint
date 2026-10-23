@@ -1,0 +1,4 @@
+numpy
+onnxruntime
+huggingface_hub
+transformers
