@@ -20,7 +20,6 @@ One month. Real builds. No tutorials. I'm an implementation analyst going deep o
 | 8 | [day-8-onprem-rag](./day-8-onprem-rag) | Fully on-prem RAG: Day 1 retrieval plus Day 6 local model, cloud call deleted. Answers from your own docs, receipts attached, no API key, no cloud | Python, TF-IDF, ONNX Runtime, HuggingFace |
 | 9 | [day-9-rag-eval](./day-9-rag-eval) | Evaluation harness for on-prem RAG: 12 test cases, retrieval accuracy and honest refusal rate, no API key, no cloud | Python, TF-IDF, numpy |
 | 10 | [day-10-mcp-rag](./day-10-mcp-rag) | MCP server for on-prem RAG: retrieve_docs and ask_docs over stdio, demo client proves both calls, no API key, no cloud | Python, MCP, TF-IDF, ONNX Runtime |
-
 *More shipping weekly. Each build gets its own folder and README.*
 
 ## Why
