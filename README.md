@@ -22,6 +22,7 @@ One month. Real builds. No tutorials. I'm an implementation analyst going deep o
 | 10 | [day-10-mcp-rag](./day-10-mcp-rag) | MCP server for on-prem RAG: retrieve_docs and ask_docs over stdio, demo client proves both calls, no API key, no cloud | Python, MCP, TF-IDF, ONNX Runtime |
 | 11 | [day-11-job-scanner](day-11-job-scanner) | Job scanner and filter: remote US or hybrid Illinois only, flags below $70,000 floor and drift roles, stops before applying | Python, JSON |
 
+| 12 | [day-12-tailor](day-12-tailor) | Tailor and stage tool: verified evidence only, splits matched, gaps, and do not claim, checks pay and location, stops before submitting | Python, JSON |
 *More shipping weekly. Each build gets its own folder and README.*
 
 ## Why
